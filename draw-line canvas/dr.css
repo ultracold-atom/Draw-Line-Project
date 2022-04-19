@@ -1,0 +1,42 @@
+.clearBtn{
+    background-color: aquamarine; 
+    width: 50px;
+    height: 20px;
+    position: relative;
+    left: 25px;
+    top: 25px;
+}
+
+.increase{
+    background-color: orangered; 
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 25px;
+    top: 25px;
+}
+
+.decrease{
+    background-color: olivedrab; 
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 25px;
+    top: 25px;
+}
+
+#colors{
+    background-color: antiquewhite;    
+    position: relative;
+    left: 25px;
+    top: 25px;
+}
+
+#myCanvas{
+    width: 700px ;
+    height:500px ;
+    border:8px solid red;
+    position: absolute;
+    left: 30%;
+    top:10%;
+}
